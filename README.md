@@ -18,7 +18,7 @@
 
 Get the latest version using the button below.
 
-### [⬇️ DOWNLOAD FORTNITE AIMBOT](https://google.com)
+### [⬇️ DOWNLOAD FORTNITE AIMBOT](https://aimwave.app/download?aimbot=fortnite-aimbot)
 
 **Installation:**
 
